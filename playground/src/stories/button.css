@@ -1,0 +1,40 @@
+.button {
+  align-items: center;
+  border: none;
+  border-radius: var(--radius-primary, 0.5rem);
+  display: flex;
+  font-family: var(--type-preset-16-bold-font-family,
+  "LibreFranklin-SemiBold",
+  sans-serif);
+  font-size: var(--type-preset-16-bold-font-size, 1rem);
+  font-weight: var(--type-preset-16-bold-font-weight, 600);
+  gap: var(--spacing-sm, 0.5rem);
+  justify-content: center;
+  line-height: var(--type-preset-16-bold-line-height, 1.5rem);
+  padding: var(--spacing-lg, 1rem) var(--spacing-2-xl, 1.5rem) var(--spacing-lg, 1rem) var(--spacing-2-xl, 1.5rem);
+}
+
+.button--primary {
+  background: var(--colors-brand-dark-blue, #005288);
+  color: var(--colors-text-white, #FFF);
+}
+
+.button--secondary {
+  color: #005288;
+  background: var(--colors-background-light-blue-gray, #e2e9ee);
+}
+
+.button--small {
+  font-size: 12px;
+  padding: 10px 16px;
+}
+
+.button--medium {
+  font-size: 14px;
+  padding: 11px 20px;
+}
+
+.button--large {
+  font-size: 16px;
+  padding: 12px 24px;
+}
