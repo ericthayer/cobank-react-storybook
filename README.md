@@ -1,5 +1,7 @@
 # CoBank Component Library
 
+<img width="1280" alt="image" src="https://github.com/ericthayer/cobank-react-sandbox/assets/2737007/5c090bbb-de49-4674-8d8b-3249d082733d">
+
 Welcome to the CoBank Component Library. This project is managed using Storybook.js and Chromatic, providing a comprehensive and organized collection of reusable components for the CoBank design system.
 
 ## Storybook.js
@@ -10,15 +12,17 @@ In this project, we use Storybook.js to visualize the different states of our co
 
 You can launch the component library locally by running `npm run storybook` in your terminal.
 
+[CoBank Storybook](https://649533f1b067c5b9af34f05c-lbzbdwekqg.chromatic.com/?path=/docs/configure-your-project--docs)
+
 ## Chromatic
 
 Chromatic is a visual testing tool built by the maintainers of Storybook. It helps to automate visual testing, review component functionality, and consolidate a component library in the cloud.
 
 With Chromatic, we can review the changes to our components visually, making it easier to catch and fix visual regressions before they reach production.
 
-## Repository
+## Playground
 
-You can access the full codebase and all component files for this project on GitHub: [CoBank React Sandbox](https://github.com/ericthayer/cobank-react-sandbox).
+`/playground`
 
 ## Contributing
 
