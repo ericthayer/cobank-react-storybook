@@ -30,3 +30,18 @@
   font-size: 14px;
   margin-right: 10px;
 }
+
+
+.app-logo {
+  display: flex;
+
+  > * {
+    width: clamp(5rem, 10rem, 13rem);
+  }
+}
+
+.flex-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
