@@ -10,7 +10,9 @@ Storybook.js is an open-source tool for building UI components and pages in isol
 
 In this project, we use Storybook.js to visualize the different states of our components, develop them in isolation of one another, and document their use cases and properties in a readable, user-friendly format.
 
-You can launch the component library locally by running `npm run storybook` in your terminal.
+`/playground`
+
+You can launch the component library locally by running `yarn run storybook` in your terminal.
 
 [CoBank Storybook](https://649533f1b067c5b9af34f05c-lbzbdwekqg.chromatic.com/?path=/docs/configure-your-project--docs)
 
@@ -19,10 +21,6 @@ You can launch the component library locally by running `npm run storybook` in y
 Chromatic is a visual testing tool built by the maintainers of Storybook. It helps to automate visual testing, review component functionality, and consolidate a component library in the cloud.
 
 With Chromatic, we can review the changes to our components visually, making it easier to catch and fix visual regressions before they reach production.
-
-## Playground
-
-`/playground`
 
 ## Contributing
 
