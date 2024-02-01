@@ -1,4 +1,4 @@
-# CoBank Component Library
+# CoBank Storybook
 
 <img width="1280" alt="image" src="https://github.com/ericthayer/cobank-react-sandbox/assets/2737007/5c090bbb-de49-4674-8d8b-3249d082733d">
 
